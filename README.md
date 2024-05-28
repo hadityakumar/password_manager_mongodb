@@ -1,12 +1,12 @@
 # Password Manager
-## Using React + Vite framework
-### Additionally used: react-toastify, tailwind-scrollbar, uuid webkits.
+## Using React + Vite framework + MongoDB database
+### Additionally used: Express.js, react-toastify, tailwind-scrollbar, uuid, dotenv, body-parser and other packages.
 
-Saves the data on local storage.
+Saves the data on mongodb.
 
 Steps to Install:
-(Make sure yarn is installed on your machine)
+
 - yarn add
 - yarn dev
 
-## To visit the website: https://hadityakumar.github.io/Password_Manager_Local/
+## To visit the website: https://hadityakumar.github.io/Password_Manager_Local/ 
