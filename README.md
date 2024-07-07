@@ -21,18 +21,18 @@
 ## Project Structure
 
 .
-├── backend
-│ ├── controllers
-│ ├── models
-│ ├── routes
-│ ├── app.js
-│ └── config.js
-├── frontend
-│ ├── public
-│ ├── src
-│ ├── index.html
-│ └── vite.config.js
-└── README.md
+├── backend <br /> 
+│ ├── controllers <br /> 
+│ ├── models <br /> 
+│ ├── routes <br /> 
+│ ├── app.js <br /> 
+│ └── config.js <br /> 
+├── frontend <br /> 
+│ ├── public <br /> 
+│ ├── src <br /> 
+│ ├── index.html <br /> 
+│ └── vite.config.js <br /> 
+└── README.md <br /> 
 
 
 ## Installation
